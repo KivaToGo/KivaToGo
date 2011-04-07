@@ -1,0 +1,11 @@
+--TODO--
+
+Bug
+---
+iKivaBasketViewController - donations additon/subtractions to not sum correctly
+
+Maintenance 
+-----------
+Portfolio code is WAY out of date, needs to be set to match closer to DetailLoanViewController
+Team code is WAY out of date, needs to be set to match closer to LoanViewController
+Search code could probably benefit from subclassing BaseLoanViewController rather than duplicating that code
