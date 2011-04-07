@@ -1,1 +1,17 @@
-Please review the README.doc  file for more details
+GENERAL
+
+KivaToGo - An iPhone application built around the idea that lenders should be able to loan to Entrepreneurs around the world, any time they so choose.  
+
+This application utilizes several 3rd party frameworks for which this app must abide by their license.  These include:
+	- Google Analytics (google.com/analytics)
+	- SBJSON (GitHub)
+	- ShareKit (getShareKit.com)
+	- PullRefreshTableViewController (GitHub)
+
+Outside of these frameworks, the code is available free of charge to modify, distribute, sell, or alter in any way deemed necessary.
+
+HOW TO USE
+
+This project requires iOS SDK 4.0 or higher (current is 4.3).  It was built in XCode 4.0 but is compatible with XCode 3.2.6 or newer.  Simply hit the "Play" (run) button in XCode and this project will run in the simulator.  It will generate 46 warnings but they are all from the 3rd party frameworks - the app itself has no warnings or Static Analysis findings
+
+ README.doc has a few screenshots
